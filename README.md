@@ -1,8 +1,3 @@
-# replit-flask-template
-Consider using this as a starting point for your Flask Project on replit.com
-
-Instead of picking a template on replit, import this repo in GitHub and give it an appropriate name for your project
-
-Then when creating your replit, choose your new repo and add your work to it
-
-Be sure to test frequently
+# replit-flask-push-test
+This repo is for demonstrating how to connect a GitHub repo to a replit environment.
+Changes will be pushed via the replit integrated terminal and git.
